@@ -1,34 +1,44 @@
 ### YamlMime:Module
-uid: learn.wwl.train-evaluate-cluster-models
+uid: learn.wwl.create-azure-cognitive-search-solution
 metadata:
-  title: Train and evaluate clustering models
-  description: "Clustering is a kind of machine learning that is used to group similar items into clusters."
-  ms.date: 09/04/2020
+  title: Create an Azure Cognitive Search solution
+  description: "Unlock the hidden insights in your data with Azure Cognitive Search."
+  ms.date: 09/19/2020
   author: wwlpublish
   ms.author: gmalc
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-title: Train and evaluate clustering models
-summary: Clustering is a kind of machine learning that is used to group similar items into clusters.
+title: Create an Azure Cognitive Search solution
+summary: Unlock the hidden insights in your data with Azure Cognitive Search.
 abstract: |
-  In this module, you'll learn:
-  - When to use clustering
-  - How to train and evaluate a clustering model using the scikit-learn framework
+  In this module you will learn how to:
+  - Create an Azure Cognitive Search index for unstructured data
+  - Develop a search application
 prerequisites: |
-  - Basic mathematical concepts
-  - Programming with Python
-iconUrl: /learn/achievements/train-and-evaluate-clustering-models.svg
+  - Familiarity with with Microsoft Azure
+  - Application development experience with C# or Python
+iconUrl: /learn/achievements/generic-badge.svg
 levels:
 - intermediate
 roles:
-- maker
+- ai-engineer
+- developer
+- solution-architect
+- student
 products:
-- azure
+- azure-storage
 - test-products
 units:
-- learn.wwl.train-evaluate-cluster-models.introduction
-- learn.wwl.train-evaluate-cluster-models.exercise-model
-- learn.wwl.train-evaluate-cluster-models.knowledge-check
-- learn.wwl.train-evaluate-cluster-models.summary
+- learn.wwl.create-azure-cognitive-search-solution.introduction
+- learn.wwl.create-azure-cognitive-search-solution.get-ready-to-develop
+- learn.wwl.create-azure-cognitive-search-solution.resources-for-search
+- learn.wwl.create-azure-cognitive-search-solution.create-data-source
+- learn.wwl.create-azure-cognitive-search-solution.create-index
+- learn.wwl.create-azure-cognitive-search-solution.create-run-indexer
+- learn.wwl.create-azure-cognitive-search-solution.search-index
+- learn.wwl.create-azure-cognitive-search-solution.apply-filtering-sorting
+- learn.wwl.create-azure-cognitive-search-solution.enhance-index
+- learn.wwl.create-azure-cognitive-search-solution.knowledge-check
+- learn.wwl.create-azure-cognitive-search-solution.summary
 badge:
-  uid: learn.wwl.train-evaluate-cluster-models.badge
+  uid: learn.wwl.create-azure-cognitive-search-solution.badge
