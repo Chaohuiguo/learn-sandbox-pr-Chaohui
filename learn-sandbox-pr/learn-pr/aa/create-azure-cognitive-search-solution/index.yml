@@ -1,3 +1,4 @@
+
 uid: learn.wwl.create-azure-cognitive-search-solution
 metadata:
   title: Create an Azure Cognitive Search solution
@@ -41,3 +42,4 @@ units:
 - learn.wwl.create-azure-cognitive-search-solution.summary
 badge:
   uid: learn.wwl.create-azure-cognitive-search-solution.badge
+
