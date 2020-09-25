@@ -26,8 +26,8 @@ roles:
 - solution-architect
 - student
 products:
-- azure-storage
-- test
+- vs-code
+- test-products
 units:
 - learn.wwl.create-azure-cognitive-search-solution.introduction
 - learn.wwl.create-azure-cognitive-search-solution.get-ready-to-develop
