@@ -27,7 +27,7 @@ roles:
 - student
 products:
 - vs-code
-- test-products
+- test
 units:
 - learn.wwl.create-azure-cognitive-search-solution.introduction
 - learn.wwl.create-azure-cognitive-search-solution.get-ready-to-develop
